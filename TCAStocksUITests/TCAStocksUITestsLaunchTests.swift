@@ -2,7 +2,7 @@
 //  TCAStocksUITestsLaunchTests.swift
 //  TCAStocksUITests
 //
-//  Created by Alex Solonevich on 13.11.2022.
+//  Created by Alex Solonevich
 //
 
 import XCTest
